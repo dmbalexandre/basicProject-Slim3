@@ -1,7 +1,7 @@
 {
   "require" : {
      "php": ">=5.4.2",
-    "twbs/bootstrap": "4.3.1",
+    "twbs/bootstrap": "4.6",
     "slim/slim": "3.*",
     "slim/psr7": "^1.0",
     "slim/php-view": "^2.2"
